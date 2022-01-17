@@ -19,6 +19,11 @@
         <value name="isSecure">false</value>
       </record>
       <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">gatewayISPassword</value>
+        <value name="value">gvhandle.gatewayISPassword</value>
+        <value name="isSecure">true</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
         <value name="key">INTERNAL_IS_USER</value>
         <value name="value">Administrator</value>
         <value name="isSecure">false</value>
@@ -26,6 +31,11 @@
       <record javaclass="com.wm.data.ISMemDataImpl">
         <value name="key">JALIN_OUT_KEYSTORE</value>
         <value name="value">JALIN_KEYSTORE</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">JALIN_OUT_KEYSTORE_ALIAS</value>
+        <value name="value">api.privateopen.dev.bri.co.id</value>
         <value name="isSecure">false</value>
       </record>
       <record javaclass="com.wm.data.ISMemDataImpl">
@@ -37,6 +47,21 @@
         <value name="key">JALIN_OUT_SECRET_KEY</value>
         <value name="value">abcdefghijklmno</value>
         <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">JALIN_SECRET_KEY_Jalin</value>
+        <value name="value">gvhandle.JALIN_SECRET_KEY_Jalin</value>
+        <value name="isSecure">true</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">JALIN_SECRET_KEY_jalin01</value>
+        <value name="value">gvhandle.JALIN_SECRET_KEY_jalin01</value>
+        <value name="isSecure">true</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">INTERNAL_IS_PASSWORD</value>
+        <value name="value">gvhandle.INTERNAL_IS_PASSWORD</value>
+        <value name="isSecure">true</value>
       </record>
     </array>
   </record>
