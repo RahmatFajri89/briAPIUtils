@@ -38,8 +38,6 @@
         <value name="value">abcdefghijklmno</value>
         <value name="isSecure">false</value>
       </record>
-
-      </record>
     </array>
   </record>
 </IDataXMLCoder>
