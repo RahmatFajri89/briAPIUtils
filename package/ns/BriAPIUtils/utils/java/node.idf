@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">BriAPIUtils.utils.java</value>
+  <value name="is_public">false</value>
+  <value name="shared">cHVibGljIHN0YXRpYyB2b2lkIGxvZ01lc3NhZ2VUb1NlcnZlckxvZygKCQlJRGF0YSBwaXBlbGlu
+ZSwgCgkgICAgU3RyaW5nIG1lc3NhZ2UpIHRocm93cyBTZXJ2aWNlRXhjZXB0aW9uewoJbG9nTWVz
+c2FnZVRvU2VydmVyTG9nKHBpcGVsaW5lLCJbQnJpQVBJVXRpbHNdIittZXNzYWdlLG51bGwsbnVs
+bCk7Cn0KCnB1YmxpYyBzdGF0aWMgdm9pZCBsb2dNZXNzYWdlVG9TZXJ2ZXJMb2coCgkgICAgSURh
+dGEgcGlwZWxpbmUsIAoJICAgIFN0cmluZyBtZXNzYWdlLCAKCSAgICBTdHJpbmcgZnVuY3Rpb24s
+IAoJICAgIFN0cmluZyBsZXZlbCkgCgkgICAgdGhyb3dzIFNlcnZpY2VFeGNlcHRpb24gCgl7IAoJ
+ICAgIElEYXRhQ3Vyc29yIGlucHV0Q3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7IAoJICAg
+IElEYXRhVXRpbC5wdXQoaW5wdXRDdXJzb3IsICJtZXNzYWdlIiwgbWVzc2FnZSk7IAoJICAgIElE
+YXRhVXRpbC5wdXQoaW5wdXRDdXJzb3IsICJmdW5jdGlvbiIsIGZ1bmN0aW9uKTsgCgkgICAgSURh
+dGFVdGlsLnB1dChpbnB1dEN1cnNvciwgImxldmVsIiwgbGV2ZWwpOyAKCSAgICBpbnB1dEN1cnNv
+ci5kZXN0cm95KCk7IAoKCSAgICB0cnkKCSAgICB7CgkgICAgICAgIFNlcnZpY2UuZG9JbnZva2Uo
+InB1Yi5mbG93IiwgImRlYnVnTG9nIiwgcGlwZWxpbmUpOwoJICAgIH0KCSAgICBjYXRjaCAoRXhj
+ZXB0aW9uIGUpCgkgICAgewoJICAgICAgICB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihlLmdl
+dE1lc3NhZ2UoKSk7CgkgICAgfQoJfQ==</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.util.Base64</value>
+    <value>javax.crypto.Mac</value>
+    <value>javax.crypto.spec.SecretKeySpec</value>
+    <value>com.fasterxml.jackson.core.JsonProcessingException</value>
+    <value>com.fasterxml.jackson.databind.JsonMappingException</value>
+    <value>com.fasterxml.jackson.databind.JsonNode</value>
+    <value>com.fasterxml.jackson.databind.ObjectMapper</value>
+  </array>
+</Values>
